@@ -4,18 +4,17 @@ A powerful and intuitive application for recognizing text from images and enabli
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Text Recognition**: Extract text from images or scanned documents using Optical Character Recognition (OCR).
 - **Text Search**: Search for specific keywords or phrases within the recognized text.
 - **Multi-Language Support**: Recognize text in multiple languages (configurable).
 - **Batch Processing**: Handle multiple images or documents in a single session.
 - **Export Options**: Save recognized text as `.txt` or `.pdf`.
-- **User-Friendly Interface**: A clean and intuitive UI for better user experience.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Programming Language**: Python
 - **OCR Engine**: [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
@@ -25,7 +24,7 @@ A powerful and intuitive application for recognizing text from images and enabli
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repository**:
    ```bash
